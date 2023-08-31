@@ -9,6 +9,9 @@ if [[ $EUID -ne 0 && $venv == "false" ]]; then
     exit 1
 fi
 
+pip3 uninstall -y dnspython
+pip3 install -r requirements.txt
+
 OS=$(uname)
 ARCH="amd64"
 
