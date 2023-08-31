@@ -1,5 +1,5 @@
 # FindFrontableDomains
-Search for potential frontable domains
+Modified version of [FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains/) from [rvrsh3ll/424f424f](https://twitter.com/424f424f) to search for potential frontable domains.
 
 Based on information found here: https://www.bamsoftware.com/papers/fronting/
 
