@@ -17,7 +17,11 @@ FRONTABLE_PATTERNS = {
     'cloudflare': "Cloudflare frontable domain found: {} {}",
     'unbouncepages.com': "Unbounce frontable domain found: {} {}",
     'x.incapdns.net': "Incapsula frontable domain found: {} {}",
-    'fastly': "Fastly URL frontable domain found: {} {}"
+    'fastly': "Fastly URL frontable domain found: {} {}",
+    'azureedge.net': "MS Front found : {} {}", 
+    'edgio.link': "Edgio Front fount : {} {}",
+    'v0cdn.net' : "Azure / Edgio Front: {} {}"
+
 }
 
 def run_subfinder(domain):
